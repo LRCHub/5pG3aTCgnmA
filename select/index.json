@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "SUNNY DAY SONG",
+  "base_artist": "μ's",
+  "createdAt": "2025-12-06T04:53:02.171763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunny Day Song",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/01_Sunny_Day_Song_μ's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/02_SUNNY_DAY_SONG_μ's.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG - Movie Edit",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/03_SUNNY_DAY_SONG_-_Movie_Edit_μ's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/04_SUNNY_DAY_SONG_Pile.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG",
+      "artist": "三森すずこ",
+      "has_synced": false,
+      "path": "select/05_SUNNY_DAY_SONG_三森すずこ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG",
+      "artist": "新田恵海",
+      "has_synced": false,
+      "path": "select/06_SUNNY_DAY_SONG_新田恵海.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/07_SUNNY_DAY_SONG_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/08_SUNNY_DAY_SONG_南條愛乃.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": false,
+      "path": "select/09_SUNNY_DAY_SONG_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (HANAYO Mix)",
+      "artist": "小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/10_SUNNY_DAY_SONG_(HANAYO_Mix)_小泉花陽(CV.久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/11_SUNNY_DAY_SONG_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/12_SUNNY_DAY_SONG_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (KOTORI Mix)",
+      "artist": "南ことり(CV.内田 彩)",
+      "has_synced": true,
+      "path": "select/13_SUNNY_DAY_SONG_(KOTORI_Mix)_南ことり(CV.内田_彩).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (NOZOMI Mix)",
+      "artist": "東條 希(CV.楠田亜衣奈)",
+      "has_synced": false,
+      "path": "select/14_SUNNY_DAY_SONG_(NOZOMI_Mix)_東條_希(CV.楠田亜衣奈).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": true,
+      "path": "select/15_SUNNY_DAY_SONG_(MAKI_Mix)_西木野真姫(CV.Pile).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": false,
+      "path": "select/16_SUNNY_DAY_SONG_(RIN_Mix)_星空凛(CV.飯田里穂).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": true,
+      "path": "select/17_SUNNY_DAY_SONG_(UMI_Mix)_園田海未(CV.三森すずこ).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (HANAYO Mix)",
+      "artist": "小泉花陽",
+      "has_synced": false,
+      "path": "select/18_SUNNY_DAY_SONG_(HANAYO_Mix)_小泉花陽.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "SUNNY DAY SONG (ELI Mix)",
+      "artist": "絢瀬絵里",
+      "has_synced": false,
+      "path": "select/19_SUNNY_DAY_SONG_(ELI_Mix)_絢瀬絵里.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUNNY DAY SONG",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_SUNNY_DAY_SONG_μ's.txt"
+    }
+  ]
+}
